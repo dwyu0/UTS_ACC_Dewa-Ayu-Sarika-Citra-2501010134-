@@ -1,0 +1,26 @@
+[
+    {
+        "sumber": "Dataset Terbuka Pariwisata Super Prioritas (Kaggle/Satu Data)",
+        "file_lokal": "data/raw/indonesia_pariwisata_super_prioritas_enriched.csv",
+        "url": "https://www.kaggle.com/",
+        "tanggal_akses": "2026-11-18 12:30:40",
+        "lisensi": "Open Data Commons / CC BY 4.0",
+        "md5_hash": "c6db3fd55976712d7fe9a7a52fbed6fe"
+    },
+    {
+        "sumber": "Open-Meteo Historical Weather API",
+        "file_lokal": "data/raw/cuaca_bali_api.json",
+        "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-8.4095&longitude=115.1889&start_date=2026-01-03&end_date=2026-03-04&daily=temperature_2m_max,precipitation_sum",
+        "tanggal_akses": "2026-11-18 12:30:41",
+        "lisensi": "Open-Meteo Terms (CC BY 4.0)",
+        "md5_hash": "698f7cb6cb5ff34ead6a007afe3bb4d5"
+    },
+    {
+        "sumber": "Wikipedia Bahasa Indonesia (Pariwisata di Bali)",
+        "file_lokal": "data/raw/wikipedia_pariwisata_bali.html",
+        "url": "https://id.wikipedia.org/wiki/Pariwisata_di_Bali",
+        "tanggal_akses": "2026-11-18 12:30:43",
+        "lisensi": "Creative Commons Attribution-ShareAlike 4.0",
+        "md5_hash": "8f3d9d32722b565c308ff01cbd4fd655"
+    }
+]
