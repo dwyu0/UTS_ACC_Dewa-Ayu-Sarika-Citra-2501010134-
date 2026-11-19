@@ -1,0 +1,16 @@
+{
+    "deskripsi": "Hasil integrasi sampel mobilitas wisatawan Bali dan parameter cuaca harian (Open-Meteo)",
+    "tanggal_integrasi": "2026-11-19 03:26:31",
+    "jumlah_baris": 61,
+    "jumlah_kolom": 8,
+    "zona_waktu": "Asia/Makassar (WITA)",
+    "kamus_kolom": {
+        "observation_date": "Tanggal observasi harian",
+        "jumlah_wisatawan_sampel": "Total individu wisatawan dalam rombongan sampel harian (travel_party_size sum)",
+        "jumlah_rombongan_sampel": "Total rombongan wisata yang tersurvei per hari (count)",
+        "rata_rata_pengeluaran_harian_idr": "Rata-rata pengeluaran per individu per hari dalam Rupiah",
+        "rata_rata_okupansi_hotel_pct": "Rata-rata persentase keterisian hotel harian",
+        "suhu_maks": "Suhu maksimum harian dalam derajat Celsius",
+        "curah_hujan": "Total presipitasi curah hujan harian dalam milimeter (mm)"
+    }
+}
